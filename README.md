@@ -43,16 +43,4 @@ Impact
 
 The dashboard provides a centralized and efficient platform for analyzing stock market data, allowing users to quickly identify opportunities, assess risks, and make informed investment decisions. It demonstrates strong capabilities in data visualization, financial analysis, and business intelligence.
 
-How to Use
-Download the dashboard file (.pbix or .twbx)
-Open using Power BI Desktop or Tableau
-Connect to the dataset if required
-Use built-in filters and visuals to explore insights
-Future Enhancements
-Integration with real-time market data APIs
-Implementation of predictive analytics models
-Portfolio tracking and performance benchmarking
-Alert systems for price movements and anomalies
-Contact
 
-For collaboration or opportunities, feel free to connect via LinkedIn .
