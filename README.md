@@ -54,5 +54,5 @@ Portfolio tracking and performance benchmarking
 Alert systems for price movements and anomalies
 Contact
 
-For collaboration or opportunities, feel free to connect via LinkedIn.
+
 
